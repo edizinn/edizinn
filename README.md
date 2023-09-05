@@ -4,7 +4,7 @@ meu nome e Ediandro da silva dos santos
 
 -Estou estudando no [alura](https://www.alura.com.br)
 -Estou me desenvolvendo na liguagem javascript
--ultilizo este espaço para minha organizaçao e compatinhamento dos meus projetos desenvolvidos
+-ultilizo este espaço para minha organizaçao e compatilhamento dos meus projetos desenvolvidos
 
 ### vc pode entrar em contato comigo📧
 
